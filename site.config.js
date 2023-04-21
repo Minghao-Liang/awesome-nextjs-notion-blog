@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Minghao Liang',
-  domain: 'Minghao-Liang.top',
+  domain: 'https://awesome-nextjs-notion-blog-wksm.vercel.app/',
   author: 'Minghao Liang',
 
   // open graph metadata (optional)
@@ -19,8 +19,6 @@ module.exports = {
   // social usernames (optional)
   twitter: null,
   github: 'Minghao-Liang',
-  wechatPublicName: 'Minghao Liang',
-  wechatPublicURL: null,
   notionPublic: 'https://www.notion.so/Minghao-Liang-6c91451f5600493ca444bb2237104691',
 
   // default notion icon and cover images for site-wide consistency (optional)
@@ -34,7 +32,7 @@ module.exports = {
   imageCDNHost: null,
 
   // Utteranc.es comments via GitHub issue comments (optional)
-  utterancesGitHubRepo: 'Minghao-liang/awesome-nextjs-notion-blog',
+  utterancesGitHubRepo: 'Minghao-Liang/awesome-nextjs-notion-blog',
   utterancesGitHubLabel: '博客评论',
 
   // whether or not to enable support for LQIP preview images (optional)
