@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Minghao Liang',
-  domain: 'https://awesome-nextjs-notion-blog-wksm.vercel.app/',
+  domain: 'awesome-nextjs-notion-blog-wksm.vercel.app/',
   author: 'Minghao Liang',
 
   // open graph metadata (optional)
