@@ -83,7 +83,7 @@ export function SimpleFeedback({ slug }) {
   return (
     <>
       <div className={styles.feedback}>
-        <div className={styles['feedback-title']}>你觉得这篇文章怎么样？</div>
+        <div className={styles['feedback-title']}>你觉得怎么样？</div>
         <div className={styles['feedback-btns']}>
           {/* awesome */}
           <div
