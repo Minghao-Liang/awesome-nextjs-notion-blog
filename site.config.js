@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Minghao Liang',
-  domain: 'awesome-nextjs-notion-blog-wksm.vercel.app/',
+  domain: 'minghao-liang.top',
   author: 'Minghao Liang',
 
   // open graph metadata (optional)
@@ -19,7 +19,6 @@ module.exports = {
   // social usernames (optional)
   twitter: null,
   github: 'Minghao-Liang',
-  notionPublic: 'https://www.notion.so/Minghao-Liang-6c91451f5600493ca444bb2237104691',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
@@ -41,7 +40,7 @@ module.exports = {
   isPreviewImageSupportEnabled: false,
 
   // set null to remove from year
-  copyRightFromYear: 2019,
+  copyRightFromYear: 2023,
 
   // map of notion page IDs to URL paths (optional)
   // any pages defined here will override their default URL paths
