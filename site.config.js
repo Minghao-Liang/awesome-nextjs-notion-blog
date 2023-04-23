@@ -44,12 +44,11 @@ module.exports = {
   // any pages defined here will override their default URL paths
   // example:
   //
-  pageUrlOverrides: {
-    '/post-list': 'db15511153af417289d98581e63fae09?v=d1824ac2063f4c3d82eadc844f5cd00a',
-    '/xv6': '3ac1843e21a74fe2ab985ecfffbd6b72',
-  },
-  showPageAsideSocials: true,
-  footCounterList: [
-    '6c91451f5600493ca444bb2237104691'
-  ]
+  // pageUrlOverrides: {
+  //   '/post-list': 'db15511153af417289d98581e63fae09?v=d1824ac2063f4c3d82eadc844f5cd00a',
+  // },
+  showPageAsideSocials: false,
+  // footCounterList: [
+  //   '6c91451f5600493ca444bb2237104691'
+  // ]
 }
