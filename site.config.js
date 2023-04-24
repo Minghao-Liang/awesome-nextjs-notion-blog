@@ -48,7 +48,7 @@ module.exports = {
   //   '/post-list': 'db15511153af417289d98581e63fae09?v=d1824ac2063f4c3d82eadc844f5cd00a',
   // },
   showPageAsideSocials: false,
-  // footCounterList: [
-  //   '6c91451f5600493ca444bb2237104691'
-  // ]
+  footCounterList: [
+    '6c91451f5600493ca444bb2237104691'
+  ]
 }
